@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "UnitCircle"]
+	path = UnitCircle
+	url = https://github.com/berrij/unitcircle
+	shallow = true
+	registered = true
