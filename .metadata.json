@@ -1,5 +1,9 @@
 [
   {
+    "package": "profoc",
+    "oncran": true
+  },
+  {
     "package": "UnitCircle",
     "oncran": true
   }
