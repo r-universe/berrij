@@ -1,5 +1,9 @@
 [
   {
+    "package": "dccpp",
+    "oncran": true
+  },
+  {
     "package": "profoc",
     "oncran": true
   },

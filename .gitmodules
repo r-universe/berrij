@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dccpp"]
+	path = dccpp
+	url = https://github.com/berrij/dccpp
+	shallow = true
+	registered = true
 [submodule "profoc"]
 	path = profoc
 	url = https://github.com/berrij/profoc
