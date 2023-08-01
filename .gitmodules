@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "UnitCircle"]
+	path = UnitCircle
+	url = https://github.com/berrij/unitcircle
 [submodule "dccpp"]
 	path = dccpp
 	url = https://github.com/berrij/dccpp
 [submodule "profoc"]
 	path = profoc
 	url = https://github.com/berrij/profoc
-[submodule "UnitCircle"]
-	path = UnitCircle
-	url = https://github.com/berrij/unitcircle
