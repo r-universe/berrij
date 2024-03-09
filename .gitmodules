@@ -13,4 +13,4 @@
 	url = https://github.com/berrij/profoc
 [submodule "rcpptimer"]
 	path = rcpptimer
-	url = https://github.com/cran/rcpptimer
+	url = https://github.com/berrij/rcpptimer
